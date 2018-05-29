@@ -1,1 +1,5 @@
-"# CRUD-DjangoRest-Vue-bootstrap" 
+" CRUD-DjangoRest-Vue-bootstrap
+
+Following the tutorial/guide of Mr. Shubham Bansal
+
+" 
